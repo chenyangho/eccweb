@@ -1,0 +1,36 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    width: 100%;
+    height: 120%;
+}
+.section-top{
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    position: relative;
+    background-image: url(ssss.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.section-top a{
+    color: seashell;
+    font-size: 13px;
+    letter-spacing: 5px;
+}
+.section-top #mk>span{
+    color: yellow;
+    font-size: 16px;
+    letter-spacing: 5px;
+}
+.section-top a{
+    background-color: rgba(243, 203, 196, 0.11);
+}
+.section-top #sk>span{
+    color: white;
+    font-size: 13px;
+    letter-spacing: 5px;
+    background-color: rgba(240, 210, 154, 0.247);
+}
+
